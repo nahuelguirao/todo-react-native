@@ -21,6 +21,10 @@ export const styles = StyleSheet.create({
     color: '#6f6f6f',
     textDecorationLine: 'line-through',
   },
+  centerText: {
+    marginTop: 10,
+    textAlign: 'center',
+  },
   whiteText: {
     fontSize: 16,
     color: 'white',
